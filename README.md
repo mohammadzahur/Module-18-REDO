@@ -5,6 +5,6 @@ STEPS:
 ### Step 3: Add Relevant User Inputs to the Streamlit Interface
 ### Step 4: Test the PyChain Ledger by Storing Records
 ## RESULTS: 
-![alt text](IMAGE1)
-![alt text](IMAGE2)
-![alt text](IMAGE3)
+![alt text](IMAGE1.png)
+![alt text](IMAGE2.png)
+![alt text](IMAGE3.png)
